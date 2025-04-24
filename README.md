@@ -1,4 +1,4 @@
-# DS_Tutorial
+# Data_Science_Tutorial
 
 Tutorial to learn Pyhton
 
